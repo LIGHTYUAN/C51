@@ -1,0 +1,111 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\pc\Documents\手把手教你学C51\src\lessen4\stream_lights\stream_lights.uvproj
+Project File Date:  07/08/2017
+
+<h2>Output:</h2>
+compiling stream_lights.c...
+stream_lights.c(1): warning C318: can't open file 'reg52.c'
+STREAM_LIGHTS.C(3): error C202: 'P1': undefined identifier
+STREAM_LIGHTS.C(4): error C202: 'P1': undefined identifier
+STREAM_LIGHTS.C(5): error C202: 'P1': undefined identifier
+STREAM_LIGHTS.C(6): error C202: 'P1': undefined identifier
+STREAM_LIGHTS.C(7): error C202: 'P1': undefined identifier
+STREAM_LIGHTS.C(14): error C202: 'ENLED': undefined identifier
+STREAM_LIGHTS.C(15): error C202: 'ADDR3': undefined identifier
+STREAM_LIGHTS.C(16): error C202: 'ADDR2': undefined identifier
+STREAM_LIGHTS.C(17): error C202: 'ADDR1': undefined identifier
+STREAM_LIGHTS.C(18): error C202: 'ADDR0': undefined identifier
+STREAM_LIGHTS.C(22): error C202: 'P0': undefined identifier
+stream_lights.c - 11 Error(s), 1 Warning(s).
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling stream_lights.c...
+stream_lights.c(1): warning C318: can't open file 'reg52.c'
+STREAM_LIGHTS.C(3): error C202: 'P1': undefined identifier
+STREAM_LIGHTS.C(4): error C202: 'P1': undefined identifier
+STREAM_LIGHTS.C(5): error C202: 'P1': undefined identifier
+STREAM_LIGHTS.C(6): error C202: 'P1': undefined identifier
+STREAM_LIGHTS.C(7): error C202: 'P1': undefined identifier
+STREAM_LIGHTS.C(14): error C202: 'ENLED': undefined identifier
+STREAM_LIGHTS.C(15): error C202: 'ADDR3': undefined identifier
+STREAM_LIGHTS.C(16): error C202: 'ADDR2': undefined identifier
+STREAM_LIGHTS.C(17): error C202: 'ADDR1': undefined identifier
+STREAM_LIGHTS.C(18): error C202: 'ADDR0': undefined identifier
+STREAM_LIGHTS.C(22): error C202: 'P0': undefined identifier
+Target not created
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling stream_lights.c...
+stream_lights.c(1): warning C318: can't open file 'reg52.c'
+STREAM_LIGHTS.C(3): error C202: 'P1': undefined identifier
+STREAM_LIGHTS.C(4): error C202: 'P1': undefined identifier
+STREAM_LIGHTS.C(5): error C202: 'P1': undefined identifier
+STREAM_LIGHTS.C(6): error C202: 'P1': undefined identifier
+STREAM_LIGHTS.C(7): error C202: 'P1': undefined identifier
+STREAM_LIGHTS.C(14): error C202: 'ENLED': undefined identifier
+STREAM_LIGHTS.C(15): error C202: 'ADDR3': undefined identifier
+STREAM_LIGHTS.C(16): error C202: 'ADDR2': undefined identifier
+STREAM_LIGHTS.C(17): error C202: 'ADDR1': undefined identifier
+STREAM_LIGHTS.C(18): error C202: 'ADDR0': undefined identifier
+STREAM_LIGHTS.C(22): error C202: 'P0': undefined identifier
+Target not created
+compiling stream_lights.c...
+stream_lights.c(1): warning C318: can't open file 'reg52.c'
+STREAM_LIGHTS.C(3): error C202: 'P1': undefined identifier
+STREAM_LIGHTS.C(4): error C202: 'P1': undefined identifier
+STREAM_LIGHTS.C(5): error C202: 'P1': undefined identifier
+STREAM_LIGHTS.C(6): error C202: 'P1': undefined identifier
+STREAM_LIGHTS.C(7): error C202: 'P1': undefined identifier
+STREAM_LIGHTS.C(14): error C202: 'ENLED': undefined identifier
+STREAM_LIGHTS.C(15): error C202: 'ADDR3': undefined identifier
+STREAM_LIGHTS.C(16): error C202: 'ADDR2': undefined identifier
+STREAM_LIGHTS.C(17): error C202: 'ADDR1': undefined identifier
+STREAM_LIGHTS.C(18): error C202: 'ADDR0': undefined identifier
+STREAM_LIGHTS.C(22): error C202: 'P0': undefined identifier
+stream_lights.c - 11 Error(s), 1 Warning(s).
+compiling stream_lights.c...
+stream_lights.c(1): warning C318: can't open file 'reg52.c'
+STREAM_LIGHTS.C(3): error C202: 'P1': undefined identifier
+STREAM_LIGHTS.C(4): error C202: 'P1': undefined identifier
+STREAM_LIGHTS.C(5): error C202: 'P1': undefined identifier
+STREAM_LIGHTS.C(6): error C202: 'P1': undefined identifier
+STREAM_LIGHTS.C(7): error C202: 'P1': undefined identifier
+STREAM_LIGHTS.C(14): error C202: 'ENLED': undefined identifier
+STREAM_LIGHTS.C(15): error C202: 'ADDR3': undefined identifier
+STREAM_LIGHTS.C(16): error C202: 'ADDR2': undefined identifier
+STREAM_LIGHTS.C(17): error C202: 'ADDR1': undefined identifier
+STREAM_LIGHTS.C(18): error C202: 'ADDR0': undefined identifier
+STREAM_LIGHTS.C(22): error C202: 'P0': undefined identifier
+stream_lights.c - 11 Error(s), 1 Warning(s).
+compiling stream_lights.c...
+stream_lights.c - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: data=9.0 xdata=0 code=65
+creating hex file from "stream_lights"...
+"stream_lights" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling stream_lights.c...
+linking...
+Program Size: data=9.0 xdata=0 code=65
+creating hex file from "stream_lights"...
+"stream_lights" - 0 Error(s), 0 Warning(s).
+compiling stream_lights.c...
+stream_lights.c - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: data=9.0 xdata=0 code=65
+creating hex file from "stream_lights"...
+"stream_lights" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling stream_lights.c...
+linking...
+Program Size: data=9.0 xdata=0 code=65
+creating hex file from "stream_lights"...
+"stream_lights" - 0 Error(s), 0 Warning(s).

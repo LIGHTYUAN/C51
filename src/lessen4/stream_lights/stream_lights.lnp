@@ -1,0 +1,4 @@
+"STARTUP.obj",
+"stream_lights.obj" 
+TO "stream_lights" 
+RAMSIZE(256) 
